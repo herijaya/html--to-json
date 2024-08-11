@@ -1,1 +1,2 @@
-run node fetchHarga.js
+run :
+node fetchHarga.js
