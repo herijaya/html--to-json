@@ -1,4 +1,4 @@
-ini berfungsi untuk menangkap data table daftar harga dari webreport versi evelucks.
+ini berfungsi untuk menangkap data table daftar harga dari webreport versi everlucks.
 
 install dulu : 
 1. axios
